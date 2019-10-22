@@ -1,4 +1,4 @@
-from parsy import fail, generate, regex, string, seq
+from parsy import fail, generate, regex, string
 
 # todo: Doesn't handle !important values
 
